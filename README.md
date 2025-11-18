@@ -93,11 +93,6 @@ The project uses the following external libraries:
 
 ---
 
-## 🌐 Live Demo (Optional)
-
-> Add a Binder / Colab link here if published.
-
----
 
 ## 💻 Code Snippet
 
